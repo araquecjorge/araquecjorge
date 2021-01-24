@@ -1,4 +1,6 @@
-### Hi [Jorge Code][website] there 👋
+## Hi [Jorge Code][website] there 👋
+
+[<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">][website]
 
 
 Here are some ideas to get you started:
