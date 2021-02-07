@@ -32,18 +32,20 @@
 [<img align="left" alt="Git" width="45px" src="https://img.stackshare.io/service/1046/git.png " />][website]
 [<img align="left" alt="Github" width="45px" src="https://img.stackshare.io/service/27/sBsvBbjY.png " />][website]
 <br/>
+<br/>
 
 ### ⚙️ IDEs...
 
   [<img align="left" alt="Visual Studio Code" width="45px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" />][website]
 <br/>
+<br/>
 
   ### 🖱️ Get in touch with me...
 
-[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://araquecjorge@gmail.com)
+[<img align="left" alt="Email Me!" width="45px" src="https://image.flaticon.com/icons/svg/2965/2965306.svg"(mailto://araquecjorge@gmail.com) />]
+[<img align="left" alt="Message Me!" width="45px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg"(https://www.linkedin.com/in/jorge-araque-8715b91a0/) />]
 <!-- [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/hulyakarakayaa) -->
-[<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/jorge-araque-8715b91a0/)
 
 <!-- link's -->
-
+[email]: 
 [website]: https://quirky-engelbart-2a94a8.netlify.app/ 
