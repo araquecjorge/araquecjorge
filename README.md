@@ -15,14 +15,29 @@
 
 <br/>
 
-### 🚀 Coding
+### 🚀 What I speak...
 [<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 
 <br/>
+
+### Tools I'm Using...
+[<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="Google Analytics" width="45px" src="https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg" />][website]
+[<img align="left" alt="Font Awesome" width="45px" src="https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png" />][website]
+[<img align="left" alt="Git" width="45px" src="https://img.stackshare.io/service/1046/git.png " />][website]
+[<img align="left" alt="Github" width="45px" src="https://img.stackshare.io/service/27/sBsvBbjY.png " />][website]
+
+### IDEs...
+
+  [<img align="left" alt="Visual Studio Code" width="45px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" />][website]
+
+  ### Get in touch with me...
+[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://araquecjorge@gmail.com)
+<!-- [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/hulyakarakayaa) -->
+[<img src='https://image.flaticon.com/icons/svg/1409/1409945.svg' width='32' title='Message Me!'>](https://www.linkedin.com/in/jorge-araque-8715b91a0/)
 
 <!-- link's -->
 
