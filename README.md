@@ -40,12 +40,12 @@
 <br/>
 <br/>
 
-  ### 🖱️ Get in touch with me...
+  <!-- ### 🖱️ Get in touch with me...
 
 <img align="left" alt="Email Me!" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1612723474~hmac=d8f5b16fe970217c94f6a31302a267ed"(mailto://araquecjorge@gmail.com) />
-<img align="left" alt="Message Me!" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612723507~hmac=f05c126a1634ce07778363e885197afa"(https://www.linkedin.com/in/jorge-araque-8715b91a0/) />
+<img align="left" alt="Message Me!" width="45px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612723507~hmac=f05c126a1634ce07778363e885197afa"(https://www.linkedin.com/in/jorge-araque-8715b91a0/) /> -->
 <!-- [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/hulyakarakayaa) -->
 
 <!-- link's -->
-[email]: 
-[website]: https://quirky-engelbart-2a94a8.netlify.app/ 
+<!-- [email]: 
+[website]: https://quirky-engelbart-2a94a8.netlify.app/  -->
